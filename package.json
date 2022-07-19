@@ -1,5 +1,5 @@
 {
-  "name": "aiva-ng",
+  "name": "asonv-tech",
   "version": "1.5.0",
   "scripts": {
     "ng": "ng",
@@ -19,7 +19,7 @@
     "@angular/platform-browser": "^14.0.2",
     "@angular/platform-browser-dynamic": "^14.0.2",
     "@angular/router": "^14.0.2",
-    "bootstrap": "^5.2.0-beta1",
+    "bootstrap": "^5.2.0",
     "ng2-sticky-nav": "^10.0.0",
     "ngx-accordion": "^0.0.17",
     "ngx-owl-carousel-o": "^7.0.2",
